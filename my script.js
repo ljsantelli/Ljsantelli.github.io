@@ -20,7 +20,7 @@ var carImage = new Image();
 carImage.onload = function () {
 	carReady = true;
 };
-carImage.src = "img/lambo.svg";
+carImage.src = "porsche.png";
 
 // Cone image
 var coneReady = false;
@@ -28,7 +28,7 @@ var coneImage = new Image();
 coneImage.onload = function () {
 	coneReady = true;
 };
-coneImage.src = "img/cone.svg";
+coneImage.src = "cone.png";
 
 // circles
 var circleUp = {
